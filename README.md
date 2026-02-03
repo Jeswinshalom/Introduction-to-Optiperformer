@@ -40,7 +40,7 @@ The system is *instrumented* with:
 
 ## Tabulation
 
-![WhatsApp Image 2026-02-03 at 7 24 28 PM](https://github.com/user-attachments/assets/4a30206c-62cf-4719-b99d-259e5547f7d8)
+![WhatsApp Image 2026-02-03 at 7 24 28 PM](https://github.com/user-attachments/assets/4f409d01-47ea-411c-a3be-7f6cbe26f087)
 
 ---
 

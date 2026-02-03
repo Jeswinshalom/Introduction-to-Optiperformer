@@ -38,4 +38,27 @@ The system is *instrumented* with:
 
 ---
 
+## Tabulation
+
+![WhatsApp Image 2026-02-03 at 7 24 28 PM](https://github.com/user-attachments/assets/4a30206c-62cf-4719-b99d-259e5547f7d8)
+
+---
+
+## Graph
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7767da5-72e7-4734-ae41-5f57364f4a90" />
+
+---
+
+## Description
+
+As the fiber span becomes longer, losses and dispersion spread each transmitted pulse and warp its shape. Over distance, this spreading makes neighboring symbols overlap, which shrinks the eye opening in the eye diagram. The closing eye indicates stronger intersymbol interference and a rising chance of bit errors, ultimately lowering the quality and reliability of the communication system.
+
+---
+
+## Result
+
+Thus, the optiperformer software had been installed and a sample file had been run sucessfully.
+
+
 
